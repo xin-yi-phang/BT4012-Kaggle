@@ -1,4 +1,7 @@
 train.csv
+test.csv
+txs_edgelist.csv
+sample_submission.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
