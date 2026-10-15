@@ -2,3 +2,6 @@ train.csv
 test.csv
 txs_edgelist.csv
 sample_submission.csv
+catboost_info
+old
+train_soft_label.csv
